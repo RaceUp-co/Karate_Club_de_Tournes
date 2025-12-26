@@ -1,0 +1,23 @@
+{
+  "name": "karate-club-de-tournes",
+  "version": "1.0.0",
+  "description": "Site web du Karate Club de Tournes",
+  "main": "script/index.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server",
+    "build": "echo 'Build script here'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "karate",
+    "club",
+    "tournes"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {}
+}
