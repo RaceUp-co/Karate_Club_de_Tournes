@@ -1,0 +1,11 @@
+# Robots.txt pour Karaté Club de Tournes
+
+User-agent: *
+Allow: /
+
+# Sitemap (à générer si vous voulez optimiser le SEO)
+# Sitemap: https://votre-domaine.netlify.app/sitemap.xml
+
+# Disallow pour les dossiers non publics (si nécessaire)
+Disallow: /node_modules/
+Disallow: /.git/

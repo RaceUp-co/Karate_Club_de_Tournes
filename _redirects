@@ -1,0 +1,9 @@
+# Redirections Netlify
+# Documentation : https://docs.netlify.com/routing/redirects/
+
+# Redirection de base pour SPA (Single Page Application)
+/*    /index.html   200
+
+# Exemples de redirections personnalisées (à adapter selon vos besoins)
+# /ancien-lien    /nouveau-lien    301
+# /contact-old    /contact         301
